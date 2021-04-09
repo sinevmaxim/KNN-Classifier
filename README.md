@@ -1,3 +1,12 @@
+# Preview
+![alt text](https://sun9-31.userapi.com/impg/-pRhQ-aXmJSEVDbkPlGHmB6USwWPZN2Bhh8bdA/Q3UCfqdr00o.jpg?size=2560x1433&quality=96&sign=582d7a0c04776711e1329523931f1ab0&type=album)
+![alt text](https://sun9-26.userapi.com/impg/vioqWgf5fcX-jgob3KCFcf5ujIsS9gmiDRxBrA/GSXUhHvwJxo.jpg?size=2560x1486&quality=96&sign=d8b4bd0bdde7b2a5a2d6146a8946fbd1&type=album)
+
+
+
+
+
+
 # KNN-Classifier.  Расстояния между образами в признаковом пространстве, информативность признакового пространства
     ===============================================================================================
 
